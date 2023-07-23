@@ -20,6 +20,8 @@
 }
 .grid-item {
   background-color: rgba(26, 188, 156);
+
+  
   border: 0.5px solid rgba(0, 0, 0, 0.8);
   border-radius: 15px;
   padding: 20px;
